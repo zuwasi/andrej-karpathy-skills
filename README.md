@@ -6,6 +6,8 @@
 
 A small set of reusable guidance files to improve coding-agent behavior in Claude Code, Amp, and Cursor, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls.
 
+> **Disclaimer:** The repository is not an official Andrej Karpathy project and is not maintained by him. It is a community project inspired by Karpathy’s public observations and discussions about common LLM coding pitfalls and coding-agent behavior.
+
 English | [简体中文](./README.zh.md)
 
 ## The Problems
