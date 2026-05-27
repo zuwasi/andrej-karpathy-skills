@@ -6,6 +6,8 @@
 
 一组可复用的指南文件，用于改善 Claude Code、Amp 和 Cursor 中编码智能体的行为，源自 [Andrej Karpathy 的观察](https://x.com/karpathy/status/2015883857489522876) 关于 LLM 编码陷阱的总结。
 
+> **Disclaimer:** The repository is not an official Andrej Karpathy project and is not maintained by him. It is a community project inspired by Karpathy’s public observations and discussions about common LLM coding pitfalls and coding-agent behavior.
+
 [English](./README.md) | 简体中文
 
 ## 问题所在
